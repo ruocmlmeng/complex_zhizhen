@@ -1,0 +1,9 @@
+# ninja log v5
+12	426	7430030177622797	CMakeFiles/untitled.dir/complex.c.obj	f4aec93c9e7416c1
+1	428	7430030177612800	CMakeFiles/untitled.dir/main.c.obj	57bca134ed8896b3
+428	1315	7430030186451315	untitled.exe	f1d21c294ff5a9d7
+3	112	7430030271661054	CMakeFiles/untitled.dir/main.c.obj	57bca134ed8896b3
+113	236	7430030272818220	untitled.exe	f1d21c294ff5a9d7
+37	418	7430044472492659	CMakeFiles/untitled.dir/complex.c.obj	f4aec93c9e7416c1
+3	419	7430044472512745	CMakeFiles/untitled.dir/main.c.obj	57bca134ed8896b3
+419	575	7430044474007863	untitled.exe	f1d21c294ff5a9d7
